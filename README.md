@@ -16,3 +16,4 @@
 ### [12일차 : 나는 어떤 포지션을 갈 것인가?](https://5dietggul.tistory.com/16) 
 ### [13일차 : IT 업계의 세계는 넓었다](https://5dietggul.tistory.com/17) 
 ### [14일차 : 어게인 어게인...](https://5dietggul.tistory.com/18) 
+### [15일차 : C언어 1일차 [Hello C] ](https://5dietggul.tistory.com/19) 
