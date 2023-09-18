@@ -16,4 +16,10 @@
 ### [12일차 : 나는 어떤 포지션을 갈 것인가?](https://5dietggul.tistory.com/16) 
 ### [13일차 : IT 업계의 세계는 넓었다](https://5dietggul.tistory.com/17) 
 ### [14일차 : 어게인 어게인...](https://5dietggul.tistory.com/18) 
-### [15일차 : C언어 1일차 [Hello C] ](https://5dietggul.tistory.com/19) 
+
+## C 2023.09.15 ~
+### [1일차 : C언어 1일차 [Hello C] ](https://5dietggul.tistory.com/19) 
+
+# 컴퓨터 공학/구조/클라우드 아웃
+## Pyhon 2023.08.29 ~
+### [1일차 : 컴퓨터 기본 구조 / 클라우드 컴퓨터](https://5dietggul.tistory.com/20) 
