@@ -18,8 +18,10 @@
 ### [14일차 : 어게인 어게인...](https://5dietggul.tistory.com/18) 
 
 ## C 2023.09.15 ~
-### [1일차 : C언어 1일차 [Hello C] ](https://5dietggul.tistory.com/19) 
+### [1일차 : C언어 1일차 [Hello C] ](https://5dietggul.tistory.com/21) 
+### [2일차 : C언어 2일차](https://5dietggul.tistory.com/20) 
 
 # 컴퓨터 공학/구조/클라우드 아웃
 ## Pyhon 2023.08.29 ~
 ### [1일차 : 컴퓨터 기본 구조 / 클라우드 컴퓨터](https://5dietggul.tistory.com/20) 
+
