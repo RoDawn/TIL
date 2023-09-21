@@ -20,8 +20,10 @@
 ## C 2023.09.15 ~
 ### [1일차 : C언어 1일차 [Hello C] ](https://5dietggul.tistory.com/19) 
 ### [2일차 : C언어 2일차](https://5dietggul.tistory.com/21)
+### [3일차 : C언어 2일차](https://5dietggul.tistory.com/22)
+### [4일차 : C언어 2일차](https://5dietggul.tistory.com/23)
 
 # 컴퓨터 공학/구조/클라우드 아웃
-## Pyhon 2023.08.29 ~
+## 2023.09.15 ~
 ### [1일차 : 컴퓨터 기본 구조 / 클라우드 컴퓨터](https://5dietggul.tistory.com/20) 
 
