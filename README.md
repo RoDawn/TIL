@@ -26,5 +26,5 @@
 # 컴퓨터 공학/구조/클라우드 아웃
 ## 2023.09.15 ~
 ### [1일차 : 컴퓨터 기본 구조 / 클라우드 컴퓨터](https://5dietggul.tistory.com/20) 
-### [IT 는 어떤 구성으로 되어있는가? (IT 인프라 아키텍쳐)](https://5dietggul.tistory.com/24) 
-
+### [IT 는 어떤 구성으로 되어있는가? (IT 인프라 아키텍쳐)]([https://5dietggul.tistory.com/23](https://www.youtube.com/watch?v=Br5qOrJTJ4g)) 
+### [클라우드는 대체 왜 탄생했는가? (클라우스 서비스에 대한 이해)](https://5dietggul.tistory.com/24) 
