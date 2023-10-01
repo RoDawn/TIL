@@ -29,3 +29,4 @@
 ### [IT 는 어떤 구성으로 되어있는가? (IT 인프라 아키텍쳐)](https://www.youtube.com/watch?v=Br5qOrJTJ4g)
 ### [클라우드는 대체 왜 탄생했는가? (클라우스 서비스에 대한 이해)](https://5dietggul.tistory.com/24) 
 ### [클라우드를 구현하는 기술 :: IT_Laftel 하하하하](https://blog.naver.com/vocal_mark/223225272450)
+### [IT 비전공자의 공부 노트 :: 챕터4 클라우드 서비스 아키텍처](https://blog.naver.com/vocal_mark/223225786834)
