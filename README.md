@@ -31,3 +31,4 @@
 ### [클라우드를 구현하는 기술 :: IT_Laftel 하하하하](https://blog.naver.com/vocal_mark/223225272450)
 ### [IT 비전공자의 공부 노트 :: 챕터4 클라우드 서비스 아키텍처](https://blog.naver.com/vocal_mark/223225786834)
 ### [IT 비전공자의 공부 노트 :: 챕터5, AWS 주요 서비스 소개와 클라우드 마무리](https://blog.naver.com/vocal_mark/223225971608)
+### [IT 비전공자의 공부 노트 :: 챕터5 클라우드 마무리](https://blog.naver.com/vocal_mark/223227146954)
