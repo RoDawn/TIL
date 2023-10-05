@@ -36,3 +36,10 @@
 # 네이버 클라우드 국비 교육 
 ## 2023.10.01 ~
 ### [1일차 : IT 비전공자의 클라우드 공부 노트 :: 챕터1 네이버 클라우드 첫 교육](https://blog.naver.com/vocal_mark/223227979557) 
+### [2일차 : IT 비전공자의 클라우드 공부 노트 :: 챕터2 리눅스야 안녕](https://blog.naver.com/vocal_mark/223228797987) 
+### [2일차 : IT 비전공자의 클라우드 공부 노트 :: 챕터3 서버H/W와 NET 구성](https://blog.naver.com/vocal_mark/223228855251) 
+### [2일차 : IT 비전공자의 클라우드 공부 노트 :: 챕터4 서버 가상화](https://blog.naver.com/vocal_mark/223228857286) 
+### [2일차 : IT 비전공자의 클라우드 공부 노트 :: 챕터5 서버 보안과 관리](https://blog.naver.com/vocal_mark/223228858576) 
+### [2일차 : IT 비전공자의 클라우드 공부 노트 :: 챕터6 웹 서버와 애플리케이션 서버](https://blog.naver.com/vocal_mark/223228884728) 
+### [2일차 : IT 비전공자의 클라우드 공부 노트 :: 챕터8 DB 시스템의 발전](https://blog.naver.com/vocal_mark/223228902250) 
+### [2일차 : IT 비전공자의 클라우드 공부 노트 :: 챕터7 DB와 DB시스템](https://blog.naver.com/vocal_mark/223228914938) 
