@@ -44,3 +44,4 @@
 ### [2일차 : IT 비전공자의 클라우드 공부 노트 :: 챕터8 DB 시스템의 발전](https://blog.naver.com/vocal_mark/223228902250) 
 ### [2일차 : IT 비전공자의 클라우드 공부 노트 :: 챕터7 DB와 DB시스템](https://blog.naver.com/vocal_mark/223228914938)
 ### [3일차 : IT 비전공자의 클라우드 공부 노트 :: 챕터9 DB, RDBMS, NoSQL, 테이블, 레코드, 필드, 리눅스 실습](https://blog.naver.com/vocal_mark/223229893556) 
+### [4일차 : IT 비전공자의 클라우드 공부 노트 :: 챕터10 컴퓨터와 네트워크 서비스 알아보기](https://blog.naver.com/vocal_mark/223232766097) 
