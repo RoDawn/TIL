@@ -46,3 +46,4 @@
 ### [3일차 : IT 비전공자의 클라우드 공부 노트 :: 챕터9 DB, RDBMS, NoSQL, 테이블, 레코드, 필드, 리눅스 실습](https://blog.naver.com/vocal_mark/223229893556) 
 ### [4일차 : IT 비전공자의 클라우드 공부 노트 :: 챕터10 컴퓨터와 네트워크 서비스 알아보기](https://blog.naver.com/vocal_mark/223232766097) 
 ### [5일차 : IT 비전공자의 클라우드 공부 노트 :: 챕터11 스토리지 서비스 실습](https://blog.naver.com/vocal_mark/223233826431) 
+### [6일차 : IT 비전공자의 클라우드 공부 노트 :: 챕터12 데이터베이스 서비스](https://blog.naver.com/vocal_mark/223234805378) 
