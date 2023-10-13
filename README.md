@@ -1,5 +1,5 @@
 # TIL
-
+### ...
 # 프로그래밍 언어 연습
 ## Pyhon 2023.08.29 ~
 ### [1일차 : 오늘 처음 코딩 항해를 시작했습니다.](https://5dietggul.tistory.com/5) 
@@ -16,13 +16,13 @@
 ### [12일차 : 나는 어떤 포지션을 갈 것인가?](https://5dietggul.tistory.com/16) 
 ### [13일차 : IT 업계의 세계는 넓었다](https://5dietggul.tistory.com/17) 
 ### [14일차 : 어게인 어게인...](https://5dietggul.tistory.com/18) 
-
+### ...
 ## C 2023.09.15 ~
 ### [1일차 : C언어 1일차 [Hello C] ](https://5dietggul.tistory.com/19) 
 ### [2일차 : C언어 2일차](https://5dietggul.tistory.com/21)
 ### [3일차 : C언어 2일차](https://5dietggul.tistory.com/22)
 ### [4일차 : C언어 2일차](https://5dietggul.tistory.com/23)
-
+### ...
 # 컴퓨터 공학/구조/클라우드 아웃
 ## 2023.09.15 ~
 ### [1일차 : 컴퓨터 기본 구조 / 클라우드 컴퓨터](https://5dietggul.tistory.com/20) 
@@ -47,3 +47,8 @@
 ### [4일차 : IT 비전공자의 클라우드 공부 노트 :: 챕터10 컴퓨터와 네트워크 서비스 알아보기](https://blog.naver.com/vocal_mark/223232766097) 
 ### [5일차 : IT 비전공자의 클라우드 공부 노트 :: 챕터11 스토리지 서비스 실습](https://blog.naver.com/vocal_mark/223233826431) 
 ### [6일차 : IT 비전공자의 클라우드 공부 노트 :: 챕터12 데이터베이스 서비스](https://blog.naver.com/vocal_mark/223234805378) 
+### [7일차 : IT 비전공자의 클라우드 공부 노트 :: 챕터13 Management 서비스, NCA 자격증 준비](https://blog.naver.com/vocal_mark/223235810436) 
+### ...
+# NCA 관련
+## 2023.10.13 ~
+###[Management Service :: 비전공자의 NCA 과정](https://blog.naver.com/vocal_mark/223235810699)
