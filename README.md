@@ -51,4 +51,4 @@
 ### ...
 # NCA 관련
 ## 2023.10.13 ~
-###[Management Service :: 비전공자의 NCA 과정](https://blog.naver.com/vocal_mark/223235810699)
+### [Management Service :: 비전공자의 NCA 과정](https://blog.naver.com/vocal_mark/223235810699)
