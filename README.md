@@ -53,5 +53,6 @@
 ## 2023.10.13 ~
 ### [Management Service :: 비전공자의 NCA 과정](https://blog.naver.com/vocal_mark/223235810699)
 ### [9일차 : Compute, Storge 탐색과 해체 :: IT비전공자의 NCA 취득 과정](https://blog.naver.com/vocal_mark/223239200603) 
+### [10일차 : Database 탐색과 해체 :: IT비전공자의 NCA 취득 과정](https://blog.naver.com/vocal_mark/223240176849) 
 
 
