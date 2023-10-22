@@ -55,4 +55,7 @@
 ### [9일차 : Compute, Storge 탐색과 해체 :: IT비전공자의 NCA 취득 과정](https://blog.naver.com/vocal_mark/223239200603) 
 ### [10일차 : Database 탐색과 해체 :: IT비전공자의 NCA 취득 과정](https://blog.naver.com/vocal_mark/223240176849) 
 ### [11일차 : Network, Media 탐색과 해체 :: IT비전공자의 NCA 취득 과정](https://blog.naver.com/vocal_mark/223240946848) 
-
+### ...
+# 클라우드 아키텍쳐 목록
+## 2023.10.22 ~
+### [Type1 : 클라우드 아키텍쳐 개인 연습 :: IT비전공자의 NCA 취득 과정](https://blog.naver.com/vocal_mark/223243465205)
