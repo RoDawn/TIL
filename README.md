@@ -59,3 +59,7 @@
 # 클라우드 아키텍쳐 목록
 ## 2023.10.22 ~
 ### [Type1 : 클라우드 아키텍쳐 개인 연습 :: IT비전공자의 NCA 취득 과정](https://blog.naver.com/vocal_mark/223243465205)
+### ...
+# AWS 관련
+## 2023.10.25 ~
+### [AWS Compute, Network, 인프라 :: IT비전공자의 AWS 취득 과정](https://blog.naver.com/vocal_mark/223246380043)
