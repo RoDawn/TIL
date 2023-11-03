@@ -64,3 +64,4 @@
 ## 2023.10.25 ~
 ### [AWS Compute, Network, 인프라 :: IT비전공자의 AWS 취득 과정](https://blog.naver.com/vocal_mark/223246380043)
 ### [AWS Stroge, Datbase, 보안, 요금, 모니터링, 마이그레이션  :: IT비전공자의 AWS 취득 과정](https://blog.naver.com/vocal_mark/223247294666)
+### [AWS 실습 1일차 :: IT비전공자의 AWS 취득 과정](https://blog.naver.com/vocal_mark/223253823408)
