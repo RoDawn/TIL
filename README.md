@@ -35,6 +35,7 @@
 ### ...
 # 네이버 클라우드 국비 교육 
 ## 2023.10.01 ~
+### [D-30 : 네이버클라우드 실무 교육 과정 우수상](https://blog.naver.com/vocal_mark/223345185536) 
 ### [1일차 : IT 비전공자의 클라우드 공부 노트 :: 챕터1 네이버 클라우드 첫 교육](https://blog.naver.com/vocal_mark/223227979557) 
 ### [2일차 : IT 비전공자의 클라우드 공부 노트 :: 챕터2 리눅스야 안녕](https://blog.naver.com/vocal_mark/223228797987) 
 ### [2일차 : IT 비전공자의 클라우드 공부 노트 :: 챕터3 서버H/W와 NET 구성](https://blog.naver.com/vocal_mark/223228855251) 
